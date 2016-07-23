@@ -1,0 +1,25 @@
+{
+  "name": "tcworkflow",
+  "version": "1.0.0",
+  "description": "Less files compilation on \"save\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arya7reddy/FasterDevelopment.git"
+  },
+  "keywords": [
+    "gulp",
+    "less",
+    "workflow",
+    "tc"
+  ],
+  "author": "Bharath Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arya7reddy/FasterDevelopment/issues"
+  },
+  "homepage": "https://github.com/arya7reddy/FasterDevelopment"
+}
