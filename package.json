@@ -24,6 +24,7 @@
   "homepage": "https://github.com/arya7reddy/FasterDevelopment",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
     "gulp-watch-less2": "^2.0.4"
   }
 }
